@@ -26,6 +26,16 @@ This program is still in its infancy at the moment, but I intend to add in the f
 		- etc. (If you have a suggestion for something to 
 		  include, please let me know!)
 
+Commands:
+
+SET TERMINAL/INQUIRE
+
+SET FILE/PROTECTION=OWNER:RWED ACCOUNTS.F
+
+SET HALT RESTART/MAINT
+
+RUN DEBUG/ACCOUNTS.F
+
 Updates will be sporadic as this is an early C project of mine so I will only be making as much as I can as I learn the skills.
 
 
